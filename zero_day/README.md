@@ -1,1 +1,1 @@
-My readmi on lap
+This file is mandatory in projects
